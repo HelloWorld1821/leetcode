@@ -1,0 +1,1 @@
+"E:\Clion\CLion 2023.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/Clion/CLion 2023.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\study\leetcode\28找出字符串中第一个匹配项的下标 -B D:\study\leetcode\28找出字符串中第一个匹配项的下标\cmake-build-debug
