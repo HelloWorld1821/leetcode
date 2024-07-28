@@ -1,0 +1,1 @@
+"E:\Clion\CLion 2023.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/Clion/CLion 2023.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\study\leetcode\151反转字符串中的单词 -B D:\study\leetcode\151反转字符串中的单词\cmake-build-debug
